@@ -1,6 +1,6 @@
 # 💪 FitLife Academia - Website Moderno
 
-![Banner do Projeto](images/screenshots/banner.png)
+![Logo do Projeto](images/screenshots/logo.png)
 
 ## 📝 Sobre o Projeto
 
@@ -37,14 +37,10 @@ sitedeacademia/
 ## 📸 Screenshots
 
 ### 🏠 Página Inicial
-![Hero Section](images/screenshots/hero.png)
+![Hero Section](images/screenshots/site.png)
 
 *Hero section moderna com chamada para ação e navegação intuitiva*
 
-### 💪 Modalidades
-![Modalidades](images/screenshots/modalidades.png)
-
-*Cards interativos apresentando cada modalidade com horários*
 
 ## ⚡ Performance
 
